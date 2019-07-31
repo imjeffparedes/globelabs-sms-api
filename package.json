@@ -1,6 +1,6 @@
 {
   "name": "globelabs-sms-api",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "GlobeLabs SMS API wrapper for Node.js",
   "main": "lib/index.js",
   "scripts": {
